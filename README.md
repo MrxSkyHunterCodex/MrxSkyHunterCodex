@@ -1,4 +1,4 @@
-![Mr.xSkyHuntet](https://c.tenor.com/a3dYADhHRmcAAAAC/darling-in-the-franxx-smirk.gif)
+![Mr.xSkyHunter](https://c.tenor.com/a3dYADhHRmcAAAAC/darling-in-the-franxx-smirk.gif)
 
 <h2> Hi there, I'm Mr.xSkyHunter! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <img align='right' src="https://c.tenor.com/kOMxo1I4AV4AAAAC/darling-in-the-franxx-zero-two.gif" width="230">
@@ -6,10 +6,10 @@
 </em></p>
 
 <a href="https://discord.gg/Mr.xSkyHunter">
-  <img align="left" alt="Mr.xSkyHunter Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Mr.xSkyHunter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/Mr.xSkyHunter">
-  <img align="left" alt="Rezadkimter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mr.xSkyHunter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/Mr.xSkyHunter.x/">
   <img align="left" alt="Mr.xSkyHunter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"/>
