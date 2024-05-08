@@ -5,13 +5,13 @@
 <p><em>Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://discord.gg/rezadkim">
-  <img align="left" alt="Rezadkimi Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/Mr.xSkyHunter">
+  <img align="left" alt="Mr.xSkyHunter Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/rezadkim">
+<a href="https://twitter.com/Mr.xSkyHunter">
   <img align="left" alt="Rezadkimter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/rezadkim.x/">
+<a href="https://www.facebook.com/Mr.xSkyHunter.x/">
   <img align="left" alt="Mr.xSkyHunter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"/>
 </a>
 
